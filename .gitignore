@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Local scratch material
+work/
+tmp/

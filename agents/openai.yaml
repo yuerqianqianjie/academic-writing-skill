@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Writing"
+  short_description: "Source-grounded English paper writing and revision"
+  default_prompt: "Use $academic-writing to diagnose and revise this academic-paper passage while preserving its claims, evidence, and stance."
